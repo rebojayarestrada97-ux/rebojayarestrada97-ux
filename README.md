@@ -1,4 +1,4 @@
-## Hi, I’m Jay👋
+## Hi, I’m Jay👋 UI/UX Designer & Frontend Developer focused on conversion-driven landing pages and product pages.
 
 <!--
 **rebojayarestrada97-ux/rebojayarestrada97-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
